@@ -73,7 +73,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                     ),
                   ),
                   Text(
-                    "Ujang Jancoek",
+                    "Guest",
                     style: Theme.of(context).textTheme.titleLarge,
                   ),
                   Padding(
